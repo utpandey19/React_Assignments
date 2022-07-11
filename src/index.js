@@ -18,7 +18,7 @@ ReactDOM.render(
     <section class="sectionCards">
     
     <div class="cat">
-    <h1>Fasion</h1>
+    <h1>Fashion</h1>
     <div class="cardContainer">
     <div class="card">
       <img src="./images/image1.png" alt=""/>
