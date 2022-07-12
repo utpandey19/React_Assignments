@@ -15,9 +15,9 @@ ReactDOM.render(
       </ul>
     <button>Sign In</button>
     </header>
-    <section class="sectionCards">
     
-    <div class="cat">
+    
+    
     <h1>Fashion</h1>
     <div class="cardContainer">
     <div class="card">
@@ -38,11 +38,11 @@ ReactDOM.render(
     </div>
     
     </div>
-    </div>
     
     
     
-    </section>
+    
+    
     </>
     ,document.getElementById('root'))
     
