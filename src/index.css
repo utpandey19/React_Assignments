@@ -32,26 +32,26 @@ cursor: pointer;
   align-items: center;
 }
 .nav li{
-  list-style: none;
-  font-size: 24px;
-  cursor: pointer;
-  }
-  .active{
-      text-decoration: underline;
-  }
-  .nav li:hover{
-      text-decoration: underline;
-  }
-  .head button:hover{
-  box-shadow: inset 1px 1px 6px black;
-  }
-  .sectionCards{
-    /* border:2px solid blue; */
-    height: 200vh;
-    width:100vw;
-    display: flex;
-    flex-direction: column;
-    padding: 20px 16px;
+list-style: none;
+font-size: 24px;
+cursor: pointer;
+}
+.active{
+  text-decoration: underline;
+}
+.nav li:hover{
+  text-decoration: underline;
+}
+.head button:hover{
+box-shadow: inset 1px 1px 6px black;
+}
+.sectionCards{
+  /* border:2px solid blue; */
+  height: 200vh;
+  width:100vw;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 16px;
 }
 .cat{
   /* border:2px solid peru; */
@@ -98,4 +98,3 @@ cursor: pointer;
 .card h3 strike{
   color: rgb(149, 145, 145);
 }
-
